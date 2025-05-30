@@ -11,3 +11,7 @@ Author: Gayathri
 4. Attachements (Image, Audio, Video)
 
 5. Hiding the last seen
+
+6. Video feature is added
+
+7.Audio feature is added
